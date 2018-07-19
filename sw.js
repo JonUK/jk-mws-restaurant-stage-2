@@ -7,7 +7,7 @@ const urlsToCache = [
 
   // Cache falling back to the network
   '/',
-  '/restaurant',
+  '/restaurant.html',
   '/css/styles.css',
   '/js/dbhelper.js',
   '/js/main.js',
